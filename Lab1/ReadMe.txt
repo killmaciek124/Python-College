@@ -1,3 +1,3 @@
 SPRAWOZDANIE:
 
-Na zajęciach dowiedziałem sie o nowym języku Python. Trudność zadań oraz tempo wykonywania odpowiadało mi. Dwóch zadań nie zdążyłem zrobić, prawdopodobnie przez czas poświęcony organizacji pracy.
+Na zajęciach dowiedziałem sie o nowym języku Python. Trudność zadań oraz tempo wykonywania odpowiadało mi. Dwóch zadań nie zdążyłem zrobić, prawdopodobnie przez czas poświęcony organizacji pracy. Ogółem, zajęcia bardzo mi się podobały.
