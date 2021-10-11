@@ -1,0 +1,1 @@
+Na dzisiejszych zajęciach nie miałem dużych problemów z zadaniami. Większość zrobiłem, czas mi nie pozwolił na wszystkie. Kartkówka była prosta lecz poszła mi słabo bo w pośpiechu wykonywałem zadanie.
