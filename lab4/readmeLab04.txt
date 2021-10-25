@@ -1,0 +1,1 @@
+Na dzisiejszych zajęciach zadania są dosyć trudne, wymagaja więcej czasu. Kartkówke napisałem w 60% poprawnie przez głupi błąd.
