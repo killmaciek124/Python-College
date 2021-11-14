@@ -1,15 +1,15 @@
-list = [100,2,3,40,5,6]
+list = [2,3,4,5,60]
 bignum = list[0]
 
 for i in range(len(list)):
-    print(i)
     if list[i] > bignum:
         bignum = list[i]
 
-        x = i
 
+list.remove(bignum)
+bignum = list[0]
+for i in range(len(list)):
+    if list[i] > bignum:
+        bignum = list[i]
 
 print(bignum)
-print(list[a])
-
-# wypisz drugi element z listy, sprawdz jak kopiowac zmienna zeby byla syala
