@@ -1,0 +1,7 @@
+alice 1
+bob 0
+charlie 1
+charlie 0
+maciej 1
+charlie 1
+ania 1
